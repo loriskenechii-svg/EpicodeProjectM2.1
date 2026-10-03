@@ -1,0 +1,13 @@
+Data,Prodotto,Vendite,Prezzo
+2026-09-01,Prodotto A,10,12.50
+2026-09-01,Prodotto B,7,18.00
+2026-09-02,Prodotto A,12,12.50
+2026-09-02,Prodotto B,5,18.00
+2026-09-03,Prodotto A,8,12.50
+2026-09-03,Prodotto C,4,25.00
+2026-09-04,Prodotto A,,12.50
+2026-09-04,Prodotto B,6,18.00
+2026-09-05,Prodotto C,3,25.00
+2026-09-05,Prodotto B,9,18.00
+2026-09-05,Prodotto B,9,18.00
+2026-09-06,Prodotto A,11,12.50
